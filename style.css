@@ -1,0 +1,23 @@
+body{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    
+}
+h3{
+    text-align: center;
+    color:whitesmoke;
+    background-color: black;
+}
+.card-body{
+    text-align: center;
+
+}
+div{
+    margin: 10px;
+    
+    
+}
